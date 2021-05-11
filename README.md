@@ -149,3 +149,8 @@ In a compiled language like C, you'll likely get multiple errors at once, which 
 Anyways, the point I'm trying to get across is: the fact that compiled languages like C use a compiler and go over the entire file at once are much faster than interpreted ones like Python, and thus if a programmer happens to be familiar with both, can take advantage of this performance difference.
 
 In the end, programming is all about solving the given task in the most efficient way possible. That's why it's amazing that some languages like Python allow for extension by other language. With tools like these available at a capable programmer's fingertips, they can in theory solve any problem thrown at them. Efficiency is usually priority number one, and Python's extensibility is one reason that it remains my favorite programming language. 
+
+## Further Readings:
+
+ - [Medium - Execute Python at the speed of C - Extending Python](https://medium.com/practo-engineering/execute-python-code-at-the-speed-of-c-extending-python-93e081b53f04#:~:text=Python%20enables%20faster%20development%20with,operations%20into%20an%20extension%20module.)
+ - [Python Docs - Extending Python with C or C++](https://docs.python.org/3/extending/extending.html#writing-extensions-in-c)
